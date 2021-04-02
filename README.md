@@ -1,6 +1,6 @@
-# PDF_Encryption
+# PyPDF2
 
-#### A simple PDF encryptor using PyPDF2 library.
+#### A simple PDF encryptor and decrypter using PyPDF2 library.
 
 ```
 PyPDF2 is a python library built as a PDF toolkit. It is capable of:
@@ -20,4 +20,5 @@ PyPDF2 is a python library built as a PDF toolkit. It is capable of:
 ### Run
 ```bash
 $ python3 encrypt.py
+$ pyhton3 decrypt.py
 ```
